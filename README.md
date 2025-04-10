@@ -1,2 +1,12 @@
-# Data-Analysis-Using-Python
-This repository contains a variety of data analysis projects developed using Python. It showcases the use of powerful Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn to explore, clean, visualize, and draw insights from datasets.
+# Diwali Sales Analysis
+This project explores and analyzes customer purchase behavior during the Diwali festival using a real-world sales dataset. The analysis uncovers key insights about customer demographics, top-selling product categories, and regional trends.
+Key Highlights :
+1.Data cleaning and preprocessing using Pandas
+2.Visualization with Seaborn and Matplotlib
+3.Insightful EDA covering:
+  a.Gender and age-wise purchase trends
+  b.State-wise sales performance
+  c.Occupation and marital status impact on buying behavior
+  d.Top-selling products and categories
+Conclusion
+Target customers are married women aged 26–35 from UP, Maharashtra, and Karnataka, working in IT, Healthcare, or Aviation, with a preference for Food, Clothing, and Electronics.
