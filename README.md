@@ -1,4 +1,4 @@
-📊 Diwali Sales Analysis:
+🪔 Diwali Sales Analysis:
 
 This project explores and analyzes customer purchase behavior during the Diwali festival using a real-world sales dataset. The analysis uncovers key insights about customer demographics, top-selling product categories, and regional trends.
 
