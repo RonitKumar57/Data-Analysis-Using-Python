@@ -1,20 +1,21 @@
 📊 Diwali Sales Analysis
 This project explores and analyzes customer purchase behavior during the Diwali festival using a real-world sales dataset. The analysis uncovers key insights about customer demographics, top-selling product categories, and regional trends.
 
-🔍 Key Highlights
-Data cleaning and preprocessing using Pandas
+🔍 Key Highlights:
 
-Visualization with Seaborn and Matplotlib
+1.Data cleaning and preprocessing using Pandas
 
-Insightful EDA covering:
+2.Visualization with Seaborn and Matplotlib
 
-Gender and age-wise purchase trends
+3.Insightful EDA covering:
 
-State-wise sales performance
+  a.Gender and age-wise purchase trends
 
-Occupation and marital status impact on buying behavior
+  b.State-wise sales performance
 
-Top-selling products and categories
+  c.Occupation and marital status impact on buying behavior
+
+  d.Top-selling products and categories
 
 🎯 Conclusion
 Target customers are married women aged 26–35 from UP, Maharashtra, and Karnataka, working in IT, Healthcare, or Aviation, with a preference for Food, Clothing, and Electronics.
